@@ -5,7 +5,7 @@ Thank you all for your thoughtful feedback. We’ve heard you and we sincerely a
 
 The swag request [form](https://airtable.com/shrmuHxu38ZariKJi) link has changed.
 
-**❤️ The GitHub Education Team**
+**❤️ The GitHub Education Team** ok
 
 ---
 ~~New submissions to the year book are now **closed** (2:30 PM PDT). Those who have already submitted a pull request, is on review or pending changes you can still get added to the yearbook by submitted those changes in the pull request you already have (without creating a new PR). Don’t worry, you can still attend the event! git remote < graduation > is happening on June 15th 9:00 PDT | 21:30 IST at twitch.tv/githubeducation  🥳 🎓~~
